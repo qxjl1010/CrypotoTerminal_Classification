@@ -1,0 +1,30 @@
+sudo su
+/bin/systemctl start docker
+/usr/bin/docker start admiring_lumiere
+
+/usr/bin/docker exec -it admiring_lumiere /usr/local/bin/tensorflow_model_server --port=8500 --model_name=lstm --model_base_path=/online_model
+
+Ctrl + p
+Ctrl + q
+
+/usr/bin/docker start sad_jennings
+
+/usr/bin/docker exec -it sad_jennings /usr/local/bin/tensorflow_model_server --port=8501 --model_name=cnn --model_base_path=/online_model
+
+Ctrl + p
+Ctrl + q
+
+
+(Start a new terminal and switch to root user)
+sudo su
+
+(Change user to jialong)
+
+su jialong
+
+(Go to jialong’s home directory)
+cd
+
+source activate tensorflow_python3.6
+
+python /home/jialong/chris-ai/client_eval_3.py

@@ -1,0 +1,2465 @@
+SVM Result:
+total number:356
+true_positive:54(15.17%)
+false_positive:45(12.64%)
+true_negative:35(9.83%)
+false_negative:222(62.36%)
+
+NN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:165(13.75%)
+true_negative:102(8.5%)
+false_negative:735(61.25%)
+
+SVM Result:
+total number:400
+true_positive:8(2.0%)
+false_positive:22(5.5%)
+true_negative:92(23.0%)
+false_negative:278(69.5%)
+
+NN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:165(13.75%)
+true_negative:102(8.5%)
+false_negative:735(61.25%)
+
+SVM Result:
+total number:400
+true_positive:8(2.0%)
+false_positive:22(5.5%)
+true_negative:92(23.0%)
+false_negative:278(69.5%)
+
+Total Result:
+total number:400
+true_positive:9(2.25%)
+false_positive:17(4.25%)
+true_negative:91(22.75%)
+=======================================================================================
+=======================================================================================
+SVM Result:
+total number:400
+true_positive:8(2.0%)
+false_positive:22(5.5%)
+true_negative:92(23.0%)
+false_negative:278(69.5%)
+
+NN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:165(13.75%)
+true_negative:102(8.5%)
+SVM Result:
+total number:400
+true_positive:8(2.0%)
+false_positive:22(5.5%)
+true_negative:92(23.0%)
+false_negative:278(69.5%)
+
+Total Result:
+total number:400
+true_positive:9(2.25%)
+false_positive:18(4.5%)
+true_negative:91(22.75%)
+=======================================================================================
+=======================================================================================
+SVM Result:
+total number:400
+true_positive:8(2.0%)
+false_positive:22(5.5%)
+true_negative:92(23.0%)
+false_negative:278(69.5%)
+
+NN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:165(13.75%)
+true_negative:102(8.5%)
+SVM Result:
+total number:400
+true_positive:8(2.0%)
+false_positive:22(5.5%)
+true_negative:92(23.0%)
+false_negative:278(69.5%)
+
+Total Result:
+total number:400
+true_positive:9(2.25%)
+false_positive:18(4.5%)
+true_negative:91(22.75%)
+=======================================================================================
+=======================================================================================
+NN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:165(13.75%)
+true_negative:102(8.5%)
+Total Result:
+total number:400
+true_positive:9(2.25%)
+false_positive:18(4.5%)
+true_negative:91(22.75%)
+=======================================================================================
+=======================================================================================
+NN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:165(13.75%)
+true_negative:102(8.5%)
+Total Result:
+total number:400
+true_positive:9(2.25%)
+false_positive:18(4.5%)
+true_negative:91(22.75%)
+=======================================================================================
+=======================================================================================
+NN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:165(13.75%)
+true_negative:102(8.5%)
+Total Result:
+total number:400
+true_positive:9(2.25%)
+false_positive:17(4.25%)
+true_negative:91(22.75%)
+=======================================================================================
+=======================================================================================
+NN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:165(13.75%)
+true_negative:102(8.5%)
+Total Result:
+total number:400
+true_positive:9(2.25%)
+false_positive:17(4.25%)
+true_negative:91(22.75%)
+=======================================================================================
+=======================================================================================
+NN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:165(13.75%)
+true_negative:102(8.5%)
+NN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:165(13.75%)
+true_negative:102(8.5%)
+NN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:165(13.75%)
+true_negative:102(8.5%)
+Total Result:
+total number:1200
+true_positive:203(16.92%)
+false_positive:95(7.92%)
+true_negative:97(8.08%)
+=======================================================================================
+=======================================================================================
+NN Result:
+total number:1200
+true_positive:181(15.08%)
+false_positive:118(9.83%)
+true_negative:119(9.92%)
+NN Result:
+total number:1200
+true_positive:236(19.67%)
+false_positive:179(14.92%)
+true_negative:64(5.33%)
+RNN Result:
+total number:1200
+true_positive:181(15.08%)
+false_positive:118(9.83%)
+true_negative:119(9.92%)
+CNN Result:
+total number:1200
+true_positive:236(19.67%)
+false_positive:179(14.92%)
+true_negative:64(5.33%)
+RNN Result:
+total number:1200
+true_positive:181(15.08%)
+false_positive:118(9.83%)
+true_negative:119(9.92%)
+CNN Result:
+total number:1200
+true_positive:236(19.67%)
+false_positive:179(14.92%)
+true_negative:64(5.33%)
+Total Result:
+total number:13200
+true_positive:894(6.77%)
+false_positive:3113(23.58%)
+true_negative:2406(18.23%)
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:181(15.08%)
+false_positive:118(9.83%)
+true_negative:119(9.92%)
+CNN Result:
+total number:1200
+true_positive:236(19.67%)
+false_positive:179(14.92%)
+true_negative:64(5.33%)
+Total Result:
+total number:3600
+true_positive:294(8.17%)
+false_positive:763(21.19%)
+true_negative:606(16.83%)
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:181(15.08%)
+false_positive:118(9.83%)
+true_negative:119(9.92%)
+CNN Result:
+total number:1200
+true_positive:236(19.67%)
+false_positive:179(14.92%)
+true_negative:64(5.33%)
+Total Result:
+total number:3600
+true_positive:294(8.17%)
+false_positive:763(21.19%)
+true_negative:606(16.83%)
+=======================================================================================
+=======================================================================================
+RNN Result:
+Accuracy: 51.17%
+Total Result(3):
+total number:1200
+true_positive:181(15.08%)
+false_positive:118(9.83%)
+true_negative:119(9.92%)
+
+Total Result(2):
+total number:1200
+true_positive:143(11.92%)
+false_positive:128(10.67%)
+true_negative:157(13.08%)
+
+Total Result(1):
+total number:1200
+true_positive:141(11.75%)
+false_positive:142(11.83%)
+true_negative:159(13.25%)
+
+Total Result(0):
+total number:1200
+true_positive:149(12.42%)
+false_positive:198(16.5%)
+true_negative:151(12.58%)
+
+CNN Result:
+Accuracy: 55.67%
+Total Result(3):
+total number:1200
+true_positive:236(19.67%)
+false_positive:179(14.92%)
+true_negative:64(5.33%)
+
+Total Result(2):
+total number:1200
+true_positive:150(12.5%)
+false_positive:135(11.25%)
+true_negative:150(12.5%)
+
+Total Result(1):
+total number:1200
+true_positive:138(11.5%)
+false_positive:150(12.5%)
+true_negative:162(13.5%)
+
+Total Result(0):
+total number:1200
+true_positive:144(12%)
+false_positive:68(5.67%)
+true_negative:156(13%)
+
+Ensemble Result:
+Accuracy: 59.08%
+Total Result(3):
+total number:1200
+true_positive:227(18.92%)
+false_positive:128(10.67%)
+true_negative:73(6.08%)
+
+Total Result(2):
+total number:1200
+true_positive:149(12.41%)
+false_positive:123(10.25%)
+true_negative:151(12.58%)
+
+Total Result(1):
+total number:1200
+true_positive:172(14.33%)
+false_positive:131(10.92%)
+true_negative:128(10.67%)
+
+Total Result(0):
+total number:1200
+true_positive:161(13.42%)
+false_positive:109(9.08%)
+true_negative:139(11.58%)
+=======================================================================================
+=======================================================================================
+NN Result:
+total number:1200
+true_positive:181(15.08%)
+false_positive:118(9.83%)
+true_negative:119(9.92%)
+Total Result:
+total number:1200
+true_positive:199(16.58%)
+false_positive:109(9.08%)
+true_negative:101(8.42%)
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:900
+true_positive:274(30.44%)
+false_positive:79(8.78%)
+true_negative:176(19.56%)
+CNN Result:
+total number:900
+true_positive:244(27.11%)
+false_positive:75(8.33%)
+true_negative:206(22.89%)
+Total Result:
+total number:900
+true_positive:237(26.33%)
+false_positive:126(14.0%)
+true_negative:63(7.0%)
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:900
+true_positive:274(30.44%)
+false_positive:79(8.78%)
+true_negative:176(19.56%)
+CNN Result:
+total number:900
+true_positive:244(27.11%)
+false_positive:75(8.33%)
+true_negative:206(22.89%)
+Total Result:
+total number:900
+true_positive:237(26.33%)
+false_positive:125(13.89%)
+true_negative:63(7.0%)
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:900
+true_positive:274(30.44%)
+false_positive:79(8.78%)
+true_negative:176(19.56%)
+CNN Result:
+total number:900
+true_positive:244(27.11%)
+false_positive:75(8.33%)
+true_negative:206(22.89%)
+Total Result:
+total number:900
+true_positive:237(26.33%)
+false_positive:124(13.78%)
+true_negative:63(7.0%)
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:900
+true_positive:122(13.56%)
+false_positive:142(15.78%)
+false_negative:328(36.44%)
+RNN Result:
+total number:900
+true_positive:122(13.56%)
+false_positive:142(15.78%)
+false_negative:328(36.44%)
+true_negative:308(34.22%)
+
+CNN Result:
+total number:900
+true_positive:60(6.67%)
+false_positive:105(11.67%)
+false_negative:390(43.33%)
+true_negative:345(38.33%)
+
+Total Result:
+total number:900
+true_positive:295(32.78%)
+false_positive:88(9.78%)
+false_negative:155(17.22%)
+true_negative:362(40.22%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:900
+true_positive:77(8.56%)
+false_positive:187(20.78%)
+false_negative:223(24.78%)
+true_negative:413(45.89%)
+
+CNN Result:
+total number:900
+true_positive:32(3.56%)
+false_positive:133(14.78%)
+false_negative:268(29.78%)
+true_negative:467(51.89%)
+
+Total Result:
+total number:900
+true_positive:239(26.56%)
+false_positive:145(16.11%)
+false_negative:61(6.78%)
+true_negative:455(50.56%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:158(13.17%)
+false_negative:77(6.42%)
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:158(13.17%)
+false_negative:77(6.42%)
+true_negative:742(61.83%)
+
+CNN Result:
+total number:1200
+true_positive:170(14.17%)
+false_positive:108(9.0%)
+false_negative:130(10.83%)
+true_negative:792(66.0%)
+
+Total Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:132(11.0%)
+false_negative:77(6.42%)
+true_negative:768(64.0%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:158(13.17%)
+false_negative:77(6.42%)
+true_negative:742(61.83%)
+
+CNN Result:
+total number:1200
+true_positive:170(14.17%)
+false_positive:108(9.0%)
+false_negative:130(10.83%)
+true_negative:792(66.0%)
+
+Total Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:132(11.0%)
+false_negative:78(6.5%)
+true_negative:768(64.0%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:158(13.17%)
+false_negative:77(6.42%)
+true_negative:742(61.83%)
+
+CNN Result:
+total number:1200
+true_positive:170(14.17%)
+false_positive:108(9.0%)
+false_negative:130(10.83%)
+true_negative:792(66.0%)
+
+Total Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:132(11.0%)
+false_negative:78(6.5%)
+true_negative:768(64.0%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:158(13.17%)
+false_negative:77(6.42%)
+true_negative:742(61.83%)
+
+CNN Result:
+total number:1200
+true_positive:170(14.17%)
+false_positive:108(9.0%)
+false_negative:130(10.83%)
+true_negative:792(66.0%)
+
+Total Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:132(11.0%)
+false_negative:77(6.42%)
+true_negative:768(64.0%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:158(13.17%)
+false_negative:77(6.42%)
+true_negative:742(61.83%)
+
+CNN Result:
+total number:1200
+true_positive:170(14.17%)
+false_positive:108(9.0%)
+false_negative:130(10.83%)
+true_negative:792(66.0%)
+
+Total Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:132(11.0%)
+false_negative:78(6.5%)
+true_negative:768(64.0%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:158(13.17%)
+false_negative:77(6.42%)
+true_negative:742(61.83%)
+
+CNN Result:
+total number:1200
+true_positive:170(14.17%)
+false_positive:108(9.0%)
+false_negative:130(10.83%)
+true_negative:792(66.0%)
+
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+Total Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:132(11.0%)
+false_negative:78(6.5%)
+true_negative:768(64.0%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:900
+true_positive:213(23.67%)
+false_positive:138(15.33%)
+false_negative:87(9.67%)
+true_negative:462(51.33%)
+
+CNN Result:
+total number:900
+true_positive:193(21.44%)
+false_positive:115(12.78%)
+false_negative:107(11.89%)
+true_negative:485(53.89%)
+
+SVM Result:
+total number:1200
+true_positive:44(3.67%)
+false_positive:114(9.5%)
+false_negative:356(29.67%)
+true_negative:686(57.17%)
+
+RNN Result:
+total number:900
+true_positive:213(23.67%)
+false_positive:138(15.33%)
+false_negative:87(9.67%)
+true_negative:462(51.33%)
+
+CNN Result:
+total number:900
+true_positive:193(21.44%)
+false_positive:115(12.78%)
+false_negative:107(11.89%)
+true_negative:485(53.89%)
+
+SVM Result:
+total number:900
+true_positive:240(26.67%)
+false_positive:150(16.67%)
+false_negative:60(6.67%)
+true_negative:450(50.0%)
+
+Total Result:
+total number:900
+true_positive:230(25.56%)
+false_positive:120(13.33%)
+false_negative:70(7.78%)
+true_negative:480(53.33%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:900
+true_positive:213(23.67%)
+false_positive:138(15.33%)
+false_negative:87(9.67%)
+true_negative:462(51.33%)
+
+CNN Result:
+total number:900
+true_positive:193(21.44%)
+false_positive:115(12.78%)
+false_negative:107(11.89%)
+true_negative:485(53.89%)
+
+SVM Result:
+total number:900
+true_positive:240(26.67%)
+false_positive:150(16.67%)
+false_negative:60(6.67%)
+true_negative:450(50.0%)
+
+Total Result:
+total number:900
+true_positive:231(25.67%)
+false_positive:120(13.33%)
+false_negative:69(7.67%)
+true_negative:480(53.33%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:900
+true_positive:213(23.67%)
+false_positive:138(15.33%)
+false_negative:87(9.67%)
+true_negative:462(51.33%)
+
+CNN Result:
+total number:900
+true_positive:193(21.44%)
+false_positive:115(12.78%)
+false_negative:107(11.89%)
+true_negative:485(53.89%)
+
+SVM Result:
+total number:900
+true_positive:240(26.67%)
+false_positive:150(16.67%)
+false_negative:60(6.67%)
+true_negative:450(50.0%)
+
+Total Result:
+total number:900
+true_positive:230(25.56%)
+false_positive:120(13.33%)
+false_negative:70(7.78%)
+true_negative:480(53.33%)
+
+=======================================================================================
+=======================================================================================
+NN Result:
+total number:1200
+true_positive:202(16.83%)
+false_positive:124(10.33%)
+true_negative:98(8.17%)
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+Total Result:
+total number:1200
+true_positive:220(18.33%)
+false_positive:132(11.0%)
+true_negative:80(6.67%)
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:158(13.17%)
+false_negative:77(6.42%)
+true_negative:742(61.83%)
+
+CNN Result:
+total number:1200
+true_positive:170(14.17%)
+false_positive:108(9.0%)
+false_negative:130(10.83%)
+true_negative:792(66.0%)
+
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+Total Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:132(11.0%)
+false_negative:78(6.5%)
+true_negative:768(64.0%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:119(9.92%)
+false_negative:102(8.5%)
+true_negative:781(65.08%)
+
+CNN Result:
+total number:1200
+true_positive:170(14.17%)
+false_positive:108(9.0%)
+false_negative:130(10.83%)
+true_negative:792(66.0%)
+
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+Total Result:
+total number:1200
+true_positive:226(18.83%)
+false_positive:143(11.92%)
+false_negative:74(6.17%)
+true_negative:757(63.08%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:119(9.92%)
+false_negative:102(8.5%)
+true_negative:781(65.08%)
+
+CNN Result:
+total number:1200
+true_positive:170(14.17%)
+false_positive:108(9.0%)
+false_negative:130(10.83%)
+true_negative:792(66.0%)
+
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+Total Result:
+total number:1200
+true_positive:228(19.0%)
+false_positive:141(11.75%)
+false_negative:72(6.0%)
+true_negative:759(63.25%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:119(9.92%)
+false_negative:102(8.5%)
+true_negative:781(65.08%)
+
+CNN Result:
+total number:1200
+true_positive:170(14.17%)
+false_positive:108(9.0%)
+false_negative:130(10.83%)
+true_negative:792(66.0%)
+
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+Total Result:
+total number:1200
+true_positive:224(18.67%)
+false_positive:140(11.67%)
+false_negative:76(6.33%)
+true_negative:760(63.33%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:119(9.92%)
+false_negative:102(8.5%)
+true_negative:781(65.08%)
+
+CNN Result:
+total number:1200
+true_positive:170(14.17%)
+false_positive:108(9.0%)
+false_negative:130(10.83%)
+true_negative:792(66.0%)
+
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+Total Result:
+total number:1200
+true_positive:224(18.67%)
+false_positive:139(11.58%)
+false_negative:76(6.33%)
+true_negative:761(63.42%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:203(16.92%)
+false_positive:141(11.75%)
+false_negative:97(8.08%)
+true_negative:759(63.25%)
+
+CNN Result:
+total number:1200
+true_positive:170(14.17%)
+false_positive:108(9.0%)
+false_negative:130(10.83%)
+true_negative:792(66.0%)
+
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+Total Result:
+total number:1200
+true_positive:210(17.5%)
+false_positive:125(10.42%)
+false_negative:90(7.5%)
+true_negative:775(64.58%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:208(17.33%)
+false_positive:143(11.92%)
+false_negative:92(7.67%)
+true_negative:757(63.08%)
+
+CNN Result:
+total number:1200
+true_positive:170(14.17%)
+false_positive:108(9.0%)
+false_negative:130(10.83%)
+true_negative:792(66.0%)
+
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+Total Result:
+total number:1200
+true_positive:217(18.08%)
+false_positive:122(10.17%)
+false_negative:83(6.92%)
+true_negative:778(64.83%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:208(17.33%)
+false_positive:143(11.92%)
+false_negative:92(7.67%)
+true_negative:757(63.08%)
+
+CNN Result:
+total number:1200
+true_positive:0(0.0%)
+false_positive:0(0.0%)
+false_negative:300(25.0%)
+true_negative:900(75.0%)
+
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+RNN Result:
+total number:1200
+true_positive:208(17.33%)
+false_positive:143(11.92%)
+false_negative:92(7.67%)
+true_negative:757(63.08%)
+
+CNN Result:
+total number:1200
+true_positive:0(0.0%)
+false_positive:0(0.0%)
+false_negative:300(25.0%)
+true_negative:900(75.0%)
+
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+RNN Result:
+total number:1200
+true_positive:208(17.33%)
+false_positive:143(11.92%)
+false_negative:92(7.67%)
+true_negative:757(63.08%)
+
+CNN Result:
+total number:1200
+true_positive:185(15.42%)
+false_positive:127(10.58%)
+false_negative:115(9.58%)
+true_negative:773(64.42%)
+
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+Total Result:
+total number:1200
+true_positive:227(18.92%)
+false_positive:139(11.58%)
+false_negative:73(6.08%)
+true_negative:761(63.42%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:208(17.33%)
+false_positive:143(11.92%)
+false_negative:92(7.67%)
+true_negative:757(63.08%)
+
+CNN Result:
+total number:1200
+true_positive:226(18.83%)
+false_positive:209(17.42%)
+false_negative:74(6.17%)
+true_negative:691(57.58%)
+
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+Total Result:
+total number:1200
+true_positive:239(19.92%)
+false_positive:173(14.42%)
+false_negative:61(5.08%)
+true_negative:727(60.58%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:187(15.58%)
+false_positive:117(9.75%)
+false_negative:113(9.42%)
+true_negative:783(65.25%)
+
+CNN Result:
+total number:1200
+true_positive:229(19.08%)
+false_positive:216(18.0%)
+false_negative:71(5.92%)
+true_negative:684(57.0%)
+
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+Total Result:
+total number:1200
+true_positive:221(18.42%)
+false_positive:141(11.75%)
+false_negative:79(6.58%)
+true_negative:759(63.25%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:197(16.42%)
+false_positive:124(10.33%)
+false_negative:103(8.58%)
+true_negative:776(64.67%)
+
+CNN Result:
+total number:1200
+true_positive:207(17.25%)
+false_positive:209(17.42%)
+false_negative:93(7.75%)
+true_negative:691(57.58%)
+
+SVM Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:175(14.58%)
+false_negative:67(5.58%)
+true_negative:725(60.42%)
+
+Total Result:
+total number:1200
+true_positive:224(18.67%)
+false_positive:130(10.83%)
+false_negative:76(6.33%)
+true_negative:770(64.17%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:199(16.58%)
+false_positive:117(9.75%)
+false_negative:101(8.42%)
+true_negative:783(65.25%)
+
+CNN Result:
+total number:1200
+true_positive:224(18.67%)
+false_positive:222(18.5%)
+false_negative:76(6.33%)
+true_negative:678(56.5%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:230(19.17%)
+false_positive:148(12.33%)
+false_negative:70(5.83%)
+true_negative:752(62.67%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:168(14.0%)
+false_positive:102(8.5%)
+false_negative:132(11.0%)
+true_negative:798(66.5%)
+
+CNN Result:
+total number:1200
+true_positive:210(17.5%)
+false_positive:184(15.33%)
+false_negative:90(7.5%)
+true_negative:716(59.67%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:227(18.92%)
+false_positive:142(11.83%)
+false_negative:73(6.08%)
+true_negative:758(63.17%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:199(16.58%)
+false_positive:140(11.67%)
+false_negative:101(8.42%)
+true_negative:760(63.33%)
+
+CNN Result:
+total number:1200
+true_positive:209(17.42%)
+false_positive:187(15.58%)
+false_negative:91(7.58%)
+true_negative:713(59.42%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:231(19.25%)
+false_positive:164(13.67%)
+false_negative:69(5.75%)
+true_negative:736(61.33%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:201(16.75%)
+false_positive:141(11.75%)
+false_negative:99(8.25%)
+true_negative:759(63.25%)
+
+CNN Result:
+total number:1200
+true_positive:153(12.75%)
+false_positive:107(8.92%)
+false_negative:147(12.25%)
+true_negative:793(66.08%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:230(19.17%)
+false_positive:155(12.92%)
+false_negative:70(5.83%)
+true_negative:745(62.08%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:173(14.42%)
+false_negative:77(6.42%)
+true_negative:727(60.58%)
+
+CNN Result:
+total number:1200
+true_positive:156(13.0%)
+false_positive:108(9.0%)
+false_negative:144(12.0%)
+true_negative:792(66.0%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:236(19.67%)
+false_positive:164(13.67%)
+false_negative:64(5.33%)
+true_negative:736(61.33%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:224(18.67%)
+false_positive:178(14.83%)
+false_negative:76(6.33%)
+true_negative:722(60.17%)
+
+CNN Result:
+total number:1200
+true_positive:153(12.75%)
+false_positive:96(8.0%)
+false_negative:147(12.25%)
+true_negative:804(67.0%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:234(19.5%)
+false_positive:182(15.17%)
+false_negative:66(5.5%)
+true_negative:718(59.83%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:221(18.42%)
+false_positive:175(14.58%)
+false_negative:79(6.58%)
+true_negative:725(60.42%)
+
+CNN Result:
+total number:1200
+true_positive:177(14.75%)
+false_positive:128(10.67%)
+false_negative:123(10.25%)
+true_negative:772(64.33%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:235(19.58%)
+false_positive:174(14.5%)
+false_negative:65(5.42%)
+true_negative:726(60.5%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:174(14.5%)
+false_negative:78(6.5%)
+true_negative:726(60.5%)
+
+CNN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:153(12.75%)
+false_negative:102(8.5%)
+true_negative:747(62.25%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:172(14.33%)
+false_negative:63(5.25%)
+true_negative:728(60.67%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:221(18.42%)
+false_positive:173(14.42%)
+false_negative:79(6.58%)
+true_negative:727(60.58%)
+
+CNN Result:
+total number:1200
+true_positive:179(14.92%)
+false_positive:156(13.0%)
+false_negative:121(10.08%)
+true_negative:744(62.0%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:231(19.25%)
+false_positive:142(11.83%)
+false_negative:69(5.75%)
+true_negative:758(63.17%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:179(14.92%)
+false_negative:78(6.5%)
+true_negative:721(60.08%)
+
+CNN Result:
+total number:1200
+true_positive:195(16.25%)
+false_positive:167(13.92%)
+false_negative:105(8.75%)
+true_negative:733(61.08%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:155(12.92%)
+false_negative:63(5.25%)
+true_negative:745(62.08%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:172(14.33%)
+false_negative:78(6.5%)
+true_negative:728(60.67%)
+
+CNN Result:
+total number:1200
+true_positive:196(16.33%)
+false_positive:166(13.83%)
+false_negative:104(8.67%)
+true_negative:734(61.17%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:228(19.0%)
+false_positive:147(12.25%)
+false_negative:72(6.0%)
+true_negative:753(62.75%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:175(14.58%)
+false_negative:78(6.5%)
+true_negative:725(60.42%)
+
+CNN Result:
+total number:1200
+true_positive:186(15.5%)
+false_positive:152(12.67%)
+false_negative:114(9.5%)
+true_negative:748(62.33%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:221(18.42%)
+false_positive:130(10.83%)
+false_negative:79(6.58%)
+true_negative:770(64.17%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:174(14.5%)
+false_negative:78(6.5%)
+true_negative:726(60.5%)
+
+CNN Result:
+total number:1200
+true_positive:193(16.08%)
+false_positive:155(12.92%)
+false_negative:107(8.92%)
+true_negative:745(62.08%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:211(17.58%)
+false_positive:122(10.17%)
+false_negative:89(7.42%)
+true_negative:778(64.83%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:178(14.83%)
+false_negative:77(6.42%)
+true_negative:722(60.17%)
+
+CNN Result:
+total number:1200
+true_positive:200(16.67%)
+false_positive:153(12.75%)
+false_negative:100(8.33%)
+true_negative:747(62.25%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:205(17.08%)
+false_positive:107(8.92%)
+false_negative:95(7.92%)
+true_negative:793(66.08%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:220(18.33%)
+false_positive:176(14.67%)
+false_negative:80(6.67%)
+true_negative:724(60.33%)
+
+CNN Result:
+total number:1200
+true_positive:185(15.42%)
+false_positive:153(12.75%)
+false_negative:115(9.58%)
+true_negative:747(62.25%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:203(16.92%)
+false_positive:118(9.83%)
+false_negative:97(8.08%)
+true_negative:782(65.17%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:177(14.75%)
+false_negative:78(6.5%)
+true_negative:723(60.25%)
+
+CNN Result:
+total number:1200
+true_positive:196(16.33%)
+false_positive:155(12.92%)
+false_negative:104(8.67%)
+true_negative:745(62.08%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:206(17.17%)
+false_positive:121(10.08%)
+false_negative:94(7.83%)
+true_negative:779(64.92%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:174(14.5%)
+false_negative:78(6.5%)
+true_negative:726(60.5%)
+
+CNN Result:
+total number:1200
+true_positive:197(16.42%)
+false_positive:164(13.67%)
+false_negative:103(8.58%)
+true_negative:736(61.33%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:211(17.58%)
+false_positive:148(12.33%)
+false_negative:89(7.42%)
+true_negative:752(62.67%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:174(14.5%)
+false_negative:78(6.5%)
+true_negative:726(60.5%)
+
+CNN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:150(12.5%)
+false_negative:102(8.5%)
+true_negative:750(62.5%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:188(15.67%)
+false_positive:131(10.92%)
+false_negative:112(9.33%)
+true_negative:769(64.08%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:174(14.5%)
+false_negative:78(6.5%)
+true_negative:726(60.5%)
+
+CNN Result:
+total number:1200
+true_positive:193(16.08%)
+false_positive:158(13.17%)
+false_negative:107(8.92%)
+true_negative:742(61.83%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:181(15.08%)
+false_positive:107(8.92%)
+false_negative:119(9.92%)
+true_negative:793(66.08%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:221(18.42%)
+false_positive:174(14.5%)
+false_negative:79(6.58%)
+true_negative:726(60.5%)
+
+CNN Result:
+total number:1200
+true_positive:199(16.58%)
+false_positive:153(12.75%)
+false_negative:101(8.42%)
+true_negative:747(62.25%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:228(19.0%)
+false_positive:157(13.08%)
+false_negative:72(6.0%)
+true_negative:743(61.92%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:221(18.42%)
+false_positive:170(14.17%)
+false_negative:79(6.58%)
+true_negative:730(60.83%)
+
+CNN Result:
+total number:1200
+true_positive:186(15.5%)
+false_positive:155(12.92%)
+false_negative:114(9.5%)
+true_negative:745(62.08%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:231(19.25%)
+false_positive:156(13.0%)
+false_negative:69(5.75%)
+true_negative:744(62.0%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:174(14.5%)
+false_negative:77(6.42%)
+true_negative:726(60.5%)
+
+CNN Result:
+total number:1200
+true_positive:190(15.83%)
+false_positive:162(13.5%)
+false_negative:110(9.17%)
+true_negative:738(61.5%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:2400
+true_positive:337(14.04%)
+false_positive:477(19.88%)
+false_negative:263(10.96%)
+true_negative:1323(55.12%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:179(14.92%)
+false_negative:78(6.5%)
+true_negative:721(60.08%)
+
+CNN Result:
+total number:1200
+true_positive:197(16.42%)
+false_positive:147(12.25%)
+false_negative:103(8.58%)
+true_negative:753(62.75%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:2400
+true_positive:336(14.0%)
+false_positive:472(19.67%)
+false_negative:264(11.0%)
+true_negative:1328(55.33%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:221(18.42%)
+false_positive:178(14.83%)
+false_negative:79(6.58%)
+true_negative:722(60.17%)
+
+CNN Result:
+total number:1200
+true_positive:190(15.83%)
+false_positive:154(12.83%)
+false_negative:110(9.17%)
+true_negative:746(62.17%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:176(14.67%)
+false_negative:63(5.25%)
+true_negative:724(60.33%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:178(14.83%)
+false_negative:78(6.5%)
+true_negative:722(60.17%)
+
+CNN Result:
+total number:1200
+true_positive:192(16.0%)
+false_positive:145(12.08%)
+false_negative:108(9.0%)
+true_negative:755(62.92%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:226(18.83%)
+false_positive:158(13.17%)
+false_negative:74(6.17%)
+true_negative:742(61.83%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:176(14.67%)
+false_negative:77(6.42%)
+true_negative:724(60.33%)
+
+CNN Result:
+total number:1200
+true_positive:190(15.83%)
+false_positive:153(12.75%)
+false_negative:110(9.17%)
+true_negative:747(62.25%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:231(19.25%)
+false_positive:144(12.0%)
+false_negative:69(5.75%)
+true_negative:756(63.0%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:174(14.5%)
+false_negative:77(6.42%)
+true_negative:726(60.5%)
+
+CNN Result:
+total number:1200
+true_positive:193(16.08%)
+false_positive:163(13.58%)
+false_negative:107(8.92%)
+true_negative:737(61.42%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:227(18.92%)
+false_positive:163(13.58%)
+false_negative:73(6.08%)
+true_negative:737(61.42%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:175(14.58%)
+false_negative:77(6.42%)
+true_negative:725(60.42%)
+
+CNN Result:
+total number:1200
+true_positive:198(16.5%)
+false_positive:155(12.92%)
+false_negative:102(8.5%)
+true_negative:745(62.08%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:238(19.83%)
+false_positive:161(13.42%)
+false_negative:62(5.17%)
+true_negative:739(61.58%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:174(14.5%)
+false_negative:77(6.42%)
+true_negative:726(60.5%)
+
+CNN Result:
+total number:1200
+true_positive:194(16.17%)
+false_positive:159(13.25%)
+false_negative:106(8.83%)
+true_negative:741(61.75%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:233(19.42%)
+false_positive:145(12.08%)
+false_negative:67(5.58%)
+true_negative:755(62.92%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:170(14.17%)
+false_negative:78(6.5%)
+true_negative:730(60.83%)
+
+CNN Result:
+total number:1200
+true_positive:194(16.17%)
+false_positive:157(13.08%)
+false_negative:106(8.83%)
+true_negative:743(61.92%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:226(18.83%)
+false_positive:154(12.83%)
+false_negative:74(6.17%)
+true_negative:746(62.17%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:221(18.42%)
+false_positive:175(14.58%)
+false_negative:79(6.58%)
+true_negative:725(60.42%)
+
+CNN Result:
+total number:1200
+true_positive:200(16.67%)
+false_positive:157(13.08%)
+false_negative:100(8.33%)
+true_negative:743(61.92%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:218(18.17%)
+false_positive:136(11.33%)
+false_negative:82(6.83%)
+true_negative:764(63.67%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:221(18.42%)
+false_positive:175(14.58%)
+false_negative:79(6.58%)
+true_negative:725(60.42%)
+
+CNN Result:
+total number:1200
+true_positive:192(16.0%)
+false_positive:148(12.33%)
+false_negative:108(9.0%)
+true_negative:752(62.67%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:220(18.33%)
+false_positive:134(11.17%)
+false_negative:80(6.67%)
+true_negative:766(63.83%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:173(14.42%)
+false_negative:77(6.42%)
+true_negative:727(60.58%)
+
+CNN Result:
+total number:1200
+true_positive:202(16.83%)
+false_positive:161(13.42%)
+false_negative:98(8.17%)
+true_negative:739(61.58%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:212(17.67%)
+false_positive:128(10.67%)
+false_negative:88(7.33%)
+true_negative:772(64.33%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:173(14.42%)
+false_negative:78(6.5%)
+true_negative:727(60.58%)
+
+CNN Result:
+total number:1200
+true_positive:193(16.08%)
+false_positive:144(12.0%)
+false_negative:107(8.92%)
+true_negative:756(63.0%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:209(17.42%)
+false_positive:114(9.5%)
+false_negative:91(7.58%)
+true_negative:786(65.5%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:175(14.58%)
+false_negative:78(6.5%)
+true_negative:725(60.42%)
+
+CNN Result:
+total number:1200
+true_positive:197(16.42%)
+false_positive:154(12.83%)
+false_negative:103(8.58%)
+true_negative:746(62.17%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:189(15.75%)
+false_positive:99(8.25%)
+false_negative:111(9.25%)
+true_negative:801(66.75%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:221(18.42%)
+false_positive:180(15.0%)
+false_negative:79(6.58%)
+true_negative:720(60.0%)
+
+CNN Result:
+total number:1200
+true_positive:195(16.25%)
+false_positive:157(13.08%)
+false_negative:105(8.75%)
+true_negative:743(61.92%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:171(14.25%)
+false_positive:78(6.5%)
+false_negative:129(10.75%)
+true_negative:822(68.5%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:222(18.5%)
+false_positive:173(14.42%)
+false_negative:78(6.5%)
+true_negative:727(60.58%)
+
+CNN Result:
+total number:1200
+true_positive:192(16.0%)
+false_positive:156(13.0%)
+false_negative:108(9.0%)
+true_negative:744(62.0%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:142(11.83%)
+false_positive:61(5.08%)
+false_negative:158(13.17%)
+true_negative:839(69.92%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:224(18.67%)
+false_positive:175(14.58%)
+false_negative:76(6.33%)
+true_negative:725(60.42%)
+
+CNN Result:
+total number:1200
+true_positive:199(16.58%)
+false_positive:171(14.25%)
+false_negative:101(8.42%)
+true_negative:729(60.75%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:108(9.0%)
+false_positive:33(2.75%)
+false_negative:192(16.0%)
+true_negative:867(72.25%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:176(14.67%)
+false_negative:77(6.42%)
+true_negative:724(60.33%)
+
+CNN Result:
+total number:1200
+true_positive:202(16.83%)
+false_positive:157(13.08%)
+false_negative:98(8.17%)
+true_negative:743(61.92%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:126(10.5%)
+false_positive:56(4.67%)
+false_negative:174(14.5%)
+true_negative:844(70.33%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:223(18.58%)
+false_positive:174(14.5%)
+false_negative:77(6.42%)
+true_negative:726(60.5%)
+
+CNN Result:
+total number:1200
+true_positive:192(16.0%)
+false_positive:156(13.0%)
+false_negative:108(9.0%)
+true_negative:744(62.0%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:29(2.42%)
+false_positive:5(0.42%)
+false_negative:271(22.58%)
+true_negative:895(74.58%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:1200
+true_positive:221(18.42%)
+false_positive:174(14.5%)
+false_negative:79(6.58%)
+true_negative:726(60.5%)
+
+CNN Result:
+total number:1200
+true_positive:193(16.08%)
+false_positive:156(13.0%)
+false_negative:107(8.92%)
+true_negative:744(62.0%)
+
+SVM Result:
+total number:1200
+true_positive:237(19.75%)
+false_positive:169(14.08%)
+false_negative:63(5.25%)
+true_negative:731(60.92%)
+
+Total Result:
+total number:1200
+true_positive:105(8.75%)
+false_positive:34(2.83%)
+false_negative:195(16.25%)
+true_negative:866(72.17%)
+
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:404
+true_positive:74(18.32%)
+false_positive:52(12.87%)
+false_negative:27(6.68%)
+true_negative:251(62.13%)
+
+CNN Result:
+total number:404
+true_positive:72(17.82%)
+false_positive:48(11.88%)
+false_negative:29(7.18%)
+true_negative:255(63.12%)
+
+SVM Result:
+total number:400
+true_positive:84(21.0%)
+false_positive:50(12.5%)
+false_negative:16(4.0%)
+true_negative:250(62.5%)
+
+Total Result:
+total number:400
+true_positive:41(10.25%)
+false_positive:9(2.25%)
+false_negative:59(14.75%)
+true_negative:291(72.75%)
+
+=======================================================================================
+=======================================================================================
+NN Result:
+total number:800
+true_positive:101(12.62%)
+false_positive:80(10.0%)
+true_negative:99(12.38%)
+SVM Result:
+total number:800
+true_positive:71(8.88%)
+false_positive:216(27.0%)
+false_negative:129(16.12%)
+true_negative:384(48.0%)
+
+Total Result:
+total number:800
+true_positive:101(12.62%)
+false_positive:80(10.0%)
+true_negative:99(12.38%)
+=======================================================================================
+=======================================================================================
+RNN Result:
+total number:800
+true_positive:130(16.25%)
+false_positive:98(12.25%)
+false_negative:70(8.75%)
+true_negative:502(62.75%)
+
+CNN Result:
+total number:800
+true_positive:140(17.5%)
+false_positive:97(12.12%)
+false_negative:60(7.5%)
+true_negative:503(62.88%)
+
+SVM Result:
+total number:800
+true_positive:71(8.88%)
+false_positive:216(27.0%)
+false_negative:129(16.12%)
+true_negative:384(48.0%)
+
+Total Result:
+total number:800
+true_positive:86(10.75%)
+false_positive:37(4.62%)
+false_negative:114(14.25%)
+true_negative:563(70.38%)
+
+=======================================================================================
+=======================================================================================
+NN Result:
+total number:800
+true_positive:101(12.62%)
+false_positive:83(10.38%)
+true_negative:99(12.38%)
+SVM Result:
+total number:800
+true_positive:71(8.88%)
+false_positive:216(27.0%)
+false_negative:129(16.12%)
+true_negative:384(48.0%)
+
+Total Result:
+total number:800
+true_positive:101(12.62%)
+false_positive:83(10.38%)
+true_negative:99(12.38%)
+=======================================================================================
+=======================================================================================
+NN Result:
+total number:800
+true_positive:102(12.75%)
+false_positive:80(10.0%)
+true_negative:98(12.25%)
+SVM Result:
+total number:800
+true_positive:71(8.88%)
+false_positive:216(27.0%)
+false_negative:129(16.12%)
+true_negative:384(48.0%)
+
+Total Result:
+total number:800
+true_positive:102(12.75%)
+false_positive:80(10.0%)
+true_negative:98(12.25%)
+=======================================================================================
+=======================================================================================
+NN Result:
+total number:800
+true_positive:101(12.62%)
+false_positive:81(10.12%)
+true_negative:99(12.38%)
+SVM Result:
+total number:800
+true_positive:115(14.37%)
+false_positive:94(11.75%)
+false_negative:85(10.62%)
+true_negative:506(63.25%)
+
+Total Result:
+total number:800
+true_positive:111(13.88%)
+false_positive:77(9.62%)
+true_negative:89(11.12%)
+=======================================================================================
+=======================================================================================
+NN Result:
+total number:800
+true_positive:102(12.75%)
+false_positive:81(10.12%)
+true_negative:98(12.25%)
+SVM Result:
+total number:800
+true_positive:114(14.25%)
+false_positive:90(11.25%)
+false_negative:86(10.75%)
+true_negative:510(63.75%)
+
+Total Result:
+total number:800
+true_positive:113(14.12%)
+false_positive:78(9.75%)
+true_negative:87(10.88%)
+=======================================================================================
+=======================================================================================

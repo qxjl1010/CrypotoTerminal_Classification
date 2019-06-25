@@ -1,0 +1,20 @@
+check docker service running:
+sudo systemctl is-active docker
+sudo status docker
+sudo service docker status
+
+
+check specific container alive:
+sudo docker inspect -f '{{.State.Running}}' musing_pasteur
+
+
+start docker service:
+systemctl start docker
+
+
+check docker status:
+docker info
+
+activate docker container:
+docker start my_container
+
